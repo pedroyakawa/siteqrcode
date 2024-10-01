@@ -4,13 +4,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f0f0f0;
+    background-color: #393781;
     margin: 0;
 }
 
 .container{
     text-align: center;
-    background-color: white;
+    background-color: #f2f1ed;
     padding: 20px;
 }
 h1{
@@ -24,7 +24,7 @@ input{
 button{
     color: white;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #09092d;
     border: none;
     border-radius: 5px;
     font-size: 16px;
@@ -32,7 +32,7 @@ button{
     margin-top: 10px;
 }
 button:hover{
-    background-color: #0056b3;
+    background-color: #393781;
 }
 .qrcode {
     margin-top: 20px;
